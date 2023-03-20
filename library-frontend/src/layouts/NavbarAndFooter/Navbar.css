@@ -1,0 +1,32 @@
+
+.collapse.navbar-collapse {
+  flex-grow: unset;
+ 
+ }
+ .navbar.navbar-expand-lg {
+   -webkit-box-shadow: 0px 0px 8px 2px gray;
+   -moz-box-shadow: 0px 0px 8px 2px gray;
+        box-shadow: 0px 0px 8px 2px gray;
+ }
+ .navbar-toggler:focus,
+ .navbar-toggler-icon:focus {
+ 
+     outline: none;
+     box-shadow: none;
+ }
+ 
+ 
+ .btn-primary {
+   border: transparent;
+   margin-left: 40px;
+ }
+ 
+ 
+ .btn.btn-primary:hover  {outline:none; background-color: #bfc0c0!important}
+ 
+ 
+ .navbar-brand {
+
+     font-size: x-large!important;
+     font-family: fantasy!important; 
+ }
